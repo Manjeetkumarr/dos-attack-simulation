@@ -31,13 +31,13 @@ This project demonstrates a Denial of Service (DoS) attack in a controlled virtu
 - Target system slowed down
 
 ## 📷 Screenshots
-<img width="770" height="512" alt="Screenshot 2026-04-19 042039" src="https://github.com/user-attachments/assets/2ee1d62a-fed0-4a6b-9203-b435a56f5303" />
+<img width="770" height="512" alt="hping3 Attack Execution" src="https://github.com/user-attachments/assets/bd04d7bb-010b-4c52-bb57-4a086885a95b" />
 .
-<img width="965" height="714" alt="Screenshot 2026-04-19 042538" src="https://github.com/user-attachments/assets/ec8d9f0e-e3db-4365-bf02-dbd554735c0f" />
+<img width="965" height="714" alt="Wireshark ICMP Traffic" src="https://github.com/user-attachments/assets/ddbf2d5f-dba3-41ba-b6d7-b12702f4047b" />
 .
-<img width="820" height="351" alt="Screenshot 2026-04-19 042723" src="https://github.com/user-attachments/assets/094c2a9a-cbb8-46c8-9053-87a9942372a0" />
+<img width="820" height="351" alt="Packet Details1" src="https://github.com/user-attachments/assets/341dfe8b-d00f-443c-a9cc-0d7e3d756c68" />
 .
-<img width="1095" height="522" alt="Screenshot 2026-04-19 042808" src="https://github.com/user-attachments/assets/2742c556-8ab2-4ce6-a2a7-132715526a6e" />
+<img width="1095" height="522" alt="Packet Details2" src="https://github.com/user-attachments/assets/fbcd3b63-8621-484a-a85d-7168e2fff765" />
 
 
 ## 📄 Report
